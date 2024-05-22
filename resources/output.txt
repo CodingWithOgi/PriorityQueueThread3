@@ -1,0 +1,10 @@
+тениска of type calvin_klein_блуза costs 23.3
+тениска of type guess_червена_блуза costs 34.3
+тениска of type calvin_klein_flowers_блуза costs 39.9
+тениска of type guess_bold_блуза costs 47.7
+тениска of type calvin_klein_logo_блуза costs 52.9
+тениска of type guess_блуза costs 54.3
+тениска of type calvin_klein_червена_блуза costs 54.8
+тениска of type guess_logo_блуза costs 57.7
+тениска of type guess_diamonds_блуза costs 62.9
+тениска of type calvin_klein_kiara_дамска_блуза costs 64.2
